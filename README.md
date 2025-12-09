@@ -1,19 +1,40 @@
-## Hi there 👋
+## Olá, sou a Andreia!
 
-Olá! Sou analista de qualidade de software na **Zucchetti Sistemas** desde 2011. Ao longo dessa jornada, venho crescendo e aprendendo constantemente, sempre buscando formas de melhorar a qualidade dos produtos entregues. 
+## Olá, sou a Andreia!
 
-### Experiência
-- Trabalho com **metodologias ágeis** como **Scrum** e **Kanban**.
-- Utilizo ferramentas como **GitHub** e **Jira** para o gerenciamento de projetos e acompanhamento das entregas.
-- Estou sempre envolvida na melhoria contínua de processos e produtos, aplicando boas práticas de qualidade de software.
+Sou **Analista de Testes Sênior** na **Zucchetti Sistemas**, com uma trajetória de **15 anos** dedicada à qualidade de software. Atualmente, estou expandindo minha expertise técnica através de uma Pós-Graduação em Automação de Testes.
 
-### Formação
-Atualmente, estou cursando uma **pós-graduação em Automação de Testes**, com o professor [@juliodelimas](https://www.linkedin.com/in/juliodelimas), uma referência na área de automação.
+Meu foco é unir a visão crítica de testes manuais com a eficiência da automação para garantir entregas de alto valor.
 
-### Valores
-- **Proatividade**: Busco sempre ser uma força positiva no time.
-- **Trabalho em equipe**: Acredito que as melhores soluções surgem da colaboração entre as pessoas.
-- **Desafios**: Estou sempre em busca de novos desafios para aprimorar minhas habilidades e agregar valor aos projetos.
+---
 
-Estou empolgada para aprender e contribuir para projetos inovadores e desafiadores!
+### Stack & Ferramentas
+Aqui estão algumas das tecnologias e metodologias que fazem parte do meu dia a dia e dos meus estudos:
 
+* **Linguagens:** JavaScript.
+* **Automação Web & API:** Cypress, Supertest.
+* **Performance:** JMeter, k6.
+* **CI/CD & Versionamento:** GitHub Actions, Git/GitHub.
+* **Gestão & Agilidade:** Scrum, Kanban, Jira.
+
+---
+
+### Estudos & Evolução
+Estou em constante aprendizado para elevar o nível da QA no meu time:
+
+- **Pós-graduanda em Automação de Testes** (com o professor [@juliodelimas](https://www.linkedin.com/in/juliodelimas)).
+- Estudante do curso **IA First**, explorando como a IA pode potencializar a rotina de testes.
+- **Foco atual:** Implementação da cultura de qualidade em todo o ciclo de desenvolvimento e automação de sistemas Desktop.
+- **Idiomas:** Inglês Intermediário.
+
+---
+
+### Meus Valores Profissionais
+* **Qualidade como Cultura:** Não é apenas sobre achar bugs, é sobre prevenir problemas e melhorar processos.
+* **Mentoria e Troca:** Acredito no compartilhamento de conhecimento para fortalecer o time.
+* **Desafios Técnicos:** Motivada pela resolução de problemas complexos e pela inovação técnica.
+
+---
+
+### Vamos conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreia-schienemayer/)
