@@ -1,7 +1,5 @@
 ## Olá, sou a Andreia!
 
-## Olá, sou a Andreia!
-
 Sou **Analista de Testes Sênior** na **Zucchetti Sistemas**, com uma trajetória de **15 anos** dedicada à qualidade de software. Atualmente, estou expandindo minha expertise técnica através de uma Pós-Graduação em Automação de Testes.
 
 Meu foco é unir a visão crítica de testes manuais com a eficiência da automação para garantir entregas de alto valor.
